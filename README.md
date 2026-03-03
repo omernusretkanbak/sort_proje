@@ -32,7 +32,7 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 - [2,16,18,22,27] |6
 - [2,6,16,18,22,27]
 
-Big-O gösterimi = O(n^2)
+Big-O gösterimi = O($n^2$)
 
 Aranılan 18 sayısı dizinin ortasında olduğu için ***Average case*** kapsamına girer.
 
